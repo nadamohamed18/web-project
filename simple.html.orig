@@ -1,0 +1,18 @@
+!DOCTYPE html>
+add copy right branch
+<<<<<<< HEAD
+editing in main branch
+=======
+test conflict  merge
+>>>>>>> realwork
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Javascript Essentials</title>
+    </head>
+    <body>
+        <h1>Javascript Essentials</h1>
+        <script src="myapp.js"></script>
+    </body>
+    <head>
+	    <html>
