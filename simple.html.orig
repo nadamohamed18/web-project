@@ -1,14 +1,15 @@
 !DOCTYPE html>
 add copy right branch
-<<<<<<< HEAD
-editing in main branch
-=======
 test conflict  merge
->>>>>>> realwork
+setup for rebasing confilect
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Javascript Essentials</title>
+<<<<<<< HEAD
+        <title>conflict rebase</title>
+=======
+        <title>conflicts rebose</title>
+>>>>>>> fb addding some trouble to simple.html
     </head>
     <body>
         <h1>Javascript Essentials</h1>
