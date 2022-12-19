@@ -6,6 +6,8 @@ purpose
 how to contribute
 mission
 copyright
+staging 
+all right reserved
 vision
 =======
 # web-project
