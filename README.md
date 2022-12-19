@@ -8,6 +8,7 @@ mission
 copyright
 staging 
 all right reserved
+statging untracked file and using pop
 vision
 =======
 # web-project
